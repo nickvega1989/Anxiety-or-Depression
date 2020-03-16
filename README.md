@@ -1,6 +1,4 @@
 # Anxiety-or-Depression
-Classifying Social Media Posts between anxiety or depression
-
 Classification of Reddit Posts Using NLP Modeling Techniques¶
 Note: this project was prepared with four separate workbooks which should be read in sequential order:
 'Data Acquisition (Book 1).ipynb'
